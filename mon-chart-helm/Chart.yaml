@@ -1,0 +1,4 @@
+apiVersion: v2
+name: mon-chart-helm
+description: Chart Helm pour mes services
+version: 0.1.0

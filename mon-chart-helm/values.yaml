@@ -1,0 +1,11 @@
+service:
+  cast:
+    port: 8000
+
+service:
+  movie:
+    port: 8001
+
+service:
+  nginx:
+    port: 8080
